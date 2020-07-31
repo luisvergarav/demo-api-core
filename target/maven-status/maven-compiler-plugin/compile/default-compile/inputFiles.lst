@@ -1,0 +1,8 @@
+/home/lvergara/Descargas/demo-api-core/src/main/java/cl/falabella/insurance/demoapicore/domain/model/LifeInsurance.java
+/home/lvergara/Descargas/demo-api-core/src/main/java/cl/falabella/insurance/demoapicore/repository/InsuranceRepository.java
+/home/lvergara/Descargas/demo-api-core/src/main/java/cl/falabella/insurance/demoapicore/controllers/InsuranceController.java
+/home/lvergara/Descargas/demo-api-core/src/main/java/cl/falabella/insurance/demoapicore/domain/service/InsuranceService.java
+/home/lvergara/Descargas/demo-api-core/src/main/java/cl/falabella/insurance/demoapicore/domain/model/Promotion.java
+/home/lvergara/Descargas/demo-api-core/src/main/java/cl/falabella/insurance/demoapicore/DemoApiCoreApplication.java
+/home/lvergara/Descargas/demo-api-core/src/main/java/cl/falabella/insurance/demoapicore/domain/service/InsuranceServiceImpl.java
+/home/lvergara/Descargas/demo-api-core/src/main/java/cl/falabella/insurance/demoapicore/domain/model/Policy.java
